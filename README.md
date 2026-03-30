@@ -52,3 +52,6 @@ If you encounter issues while downloading or installing, feel free to open an is
 
 We hope you enjoy using Cadence-Virtuoso-Projects. Simplifying your VLSI design experience is our goal!
 ```
+---
+## 📦 Imported from [https://github.com/ghanemS/Cadence-Virtuoso-Projects](https://github.com/ghanemS/Cadence-Virtuoso-Projects)
+*Imported using ForkYouToo - Learn, Adapt, Build*
